@@ -1,0 +1,12 @@
+show
+add
+testname
+1
+1
+1
+1
+y
+red
+1
+show
+exit
